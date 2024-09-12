@@ -87,7 +87,6 @@ Continuing my **System Analyst Degree** at Universidade São Judas Tadeu, focusi
 ### 📫 How to reach me
 
 - **Email:** fernandesjuan633@gmail.com
-- **Phone:** +55 11-984308951
 
 ---
 
