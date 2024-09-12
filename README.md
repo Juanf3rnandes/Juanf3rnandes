@@ -69,6 +69,7 @@
 </picture>
 
 
+
 **Full Stack Developer**
 
 [LinkedIn](https://www.linkedin.com/in/juan-fernandes-605b05222/)
