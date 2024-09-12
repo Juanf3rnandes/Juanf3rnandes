@@ -8,7 +8,7 @@
     <a href="https://github.com/juanf3rnandes/juanf3rnandes/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
     <a href="https://github.com/juanf3rnandes/juanf3rnandes/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
     <a href="https://github.com/juanf3rnandes/juanf3rnandes/network/members"><img src="https://img.shields.io/github/forks/juanf3rnandes/juanf3rnandes.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=juanf3rnandes.juanf3rnandes" alt="visitors"/>   
 </p>
 
 <div align="center">  
