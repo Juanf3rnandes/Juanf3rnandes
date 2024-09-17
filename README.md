@@ -82,7 +82,7 @@ I am a dedicated Full Stack Developer with expertise in both frontend and backen
 
 ### 🔭 I’m currently working on
 
-As a Frontend Developer at [Hubert Gestão de Ativos Imobiliários](https://hubert.com.br), I am responsible for implementing new features, fixing bugs, and conducting technical analysis to enhance the company's ERP systems. 
+As a Frontend Developer , I am responsible for implementing new features, fixing bugs, and conducting technical analysis to enhance the system's company
 
 Key responsibilities include:
 - **Feature Development:** Building and integrating new features using Next.js.
