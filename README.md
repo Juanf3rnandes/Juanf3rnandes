@@ -1,14 +1,3 @@
-![](./src/header_.png)
-
-<p align="center">
-    <a href="https://github.com/juanf3rnandes/juanf3rnandes"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/juanf3rnandes/juanf3rnandes/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/juanf3rnandes/juanf3rnandes/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/juanf3rnandes/juanf3rnandes/network/members"><img src="https://img.shields.io/github/forks/juanf3rnandes/juanf3rnandes.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=juanf3rnandes.juanf3rnandes" alt="visitors"/>   
-</p>
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juanf3rnandes&show_icons=true&count_private=true&hide_border=true&title_color=56&icon_color=56&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
