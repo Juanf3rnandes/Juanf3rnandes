@@ -58,7 +58,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanf3rnandes"></img>
 
 <!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+![BEPb's github activity graph](https://raw.githubusercontent.com/juanf3rnandes/juanf3rnandes/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -74,11 +74,10 @@
 
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=juanf3rnandes" width="auto"></img>
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=juanf3rnandes&show-other-skills=true" width="auto"></img>
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/juan-fernandes-605b05222" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:fernandesjuan633@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/juanf3rnandes/juanf3rnandes/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=+5511984308951" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
