@@ -6,7 +6,7 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/juanf3rnandes/juanf3rnandes/graphs/contributors"><img src="https://img.shields.io/github/contributors/juanf3rnandes/BEPb?color=blue"></a>
     <a href="https://github.com/juanf3rnandes/juanf3rnandes/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/juanf3rnandes/juanf3rnandes/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/juanf3rnandes/juanf3rnandes/network/members"><img src="https://img.shields.io/github/forks/juanf3rnandes/juanf3rnandes.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=juanf3rnandes.juanf3rnandes" alt="visitors"/>   
 </p>
 
@@ -52,10 +52,10 @@
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=juanf3rnandes&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=juanf3rnandes&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juanf3rnandes&theme=radical&layout=compact) |
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanf3rnandes"></img>
 
 <!-- dark snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/juanf3rnandes/juanf3rnandes/output/github-contribution-grid-snake-dark.svg)
@@ -78,7 +78,7 @@
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/juan-fernandes-605b05222"target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:fernandesjuan633@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=+5511984308951" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
