@@ -49,14 +49,14 @@ I’m a passionate software developer with over **2 years of experience**, speci
 
 ### 🐍 **Snake Animation**
 
-![snake gif](https://github.com/juanfpereira/juanfpereira/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/juanf3rnandes/juanf3rnandes/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 💬 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanfpereira/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfpereira.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandesjuan633@gmail.com/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandesjuan633@gmail.com)
 
 ---
 
