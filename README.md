@@ -42,7 +42,21 @@
 
 <!--   stats + languages -->
 
-| .                                                                                                                                                         | .                                                                                                                                  |
+| . | .
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=92047304" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=92047304&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Juanf3rnandes" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=92047304&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+                                                                                                                          |
+
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | ![JuanFernandes's github stats](https://github-readme-stats.vercel.app/api?username=JuanFernandes&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFernandes&theme=radical&layout=compact) |
 
