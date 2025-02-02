@@ -41,8 +41,8 @@ I’m a passionate software developer with over **2 years of experience**, speci
 ### 📝 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanfpereira&show_icons=true&theme=radical&count_private=true&hide=contribs" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfpereira&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juanf3rnandes&show_icons=true&theme=radical&count_private=true&hide=contribs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanf3rnandes&layout=compact&theme=radical" height="180px"/>
 </div>
 
 ---
