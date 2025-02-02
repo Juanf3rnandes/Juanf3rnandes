@@ -38,11 +38,9 @@
 
 <!--   green snake -->
 
-![JuanFernandes's github activity graph](https://raw.githubusercontent.com/JuanFernandes/JuanFernandes/output/github-contribution-grid-snake.svg)
+![JuanFernandes's github activity graph](https://raw.githubusercontent.com/Juanf3rnandes/juanf3rnandes/output/github-contribution-grid-snake.svg)
 
 <!--   stats + languages -->
-
-| . | .
 
 <!-- Copy-paste in your Readme.md file -->
 
@@ -64,7 +62,7 @@
 
 <!-- dark snake -->
 
-![JuanFernandes's github activity graph](https://raw.githubusercontent.com/JuanFernandes/JuanFernandes/output/github-contribution-grid-snake-dark.svg)
+![JuanFernandes's github activity graph](https://raw.githubusercontent.com/juanf3rnandes/juanf3rnandes/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 
