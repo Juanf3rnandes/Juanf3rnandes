@@ -1,6 +1,6 @@
 ### Hi there! I'm Juan Fernandes Pereira 👋
 
-> **Full-Stack Developer | TypeScript, React, Next.js & NestJS Enthusiast**
+> **Full-Stack Developer | TypeScript, React, Next.js & Blockchain Enthusiast**
 
 I’m a passionate software developer with over **2 years of experience**, specializing in **Frontend and Backend development**. I focus on building scalable web applications, with expertise in **React, Next.js, TypeScript, and NestJS**. I also work with **SQL databases, Docker, and cybersecurity concepts**.
 
