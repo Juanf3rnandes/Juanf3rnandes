@@ -6,12 +6,15 @@
 $ cat ~/sobre.md
 ```
 
-Sou **Juan Fernandes**, dev full-stack. De dia escrevo **TypeScript, React, Next.js e NestJS**.
-No resto do tempo abro a caixa-preta: quero saber o que acontece entre o `fetch()` e o pacote TCP,
-entre o `SELECT` e o bloco no disco, entre o `docker run` e o `clone()` no kernel.
+Sou **Juan Fernandes**, Software Engineer e AI enthusiast.
 
-Framework é atalho, não fundação. Antes de confiar numa abstração, gosto de escrever uma versão
-tosca dela na mão, quebrar, ler o código-fonte de verdade e só depois usar a pronta.
+Gosto de problemas difíceis. Não necessariamente porque precisam de soluções sofisticadas, mas porque quase sempre existe mais de uma maneira de resolvê-los — e encontrar a melhor delas é parte da diversão.
+
+Gosto de pensar matematicamente, questionar o óbvio, explorar caminhos diferentes e construir coisas do zero. Linguagem, framework ou tecnologia são detalhes. O que realmente me interessa é entender o problema, descobrir sua estrutura e encontrar uma solução elegante.
+
+> "What I cannot create, I do not understand."
+>
+> — Richard P. Feynman
 
 ---
 
