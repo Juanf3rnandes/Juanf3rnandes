@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./assets/terminal.svg" alt="juan@root:~$ whoami" width="100%"/>
-</div>
+
 
 ```bash
 $ cat ~/sobre.md
