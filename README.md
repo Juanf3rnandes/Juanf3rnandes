@@ -20,10 +20,9 @@ Gosto de pensar matematicamente, explorar caminhos diferentes e construir coisas
 $ cat /etc/filosofia
 ```
 
-- **Reinventar a roda é como se aprende como a roda funciona.** Não é para usar em produção, é para entender.
 - **Leia o código-fonte.** A documentação diz o que deveria acontecer; o código diz o que acontece.
 - **RTFM, depois `strace`.** Se não está no manual, está nas syscalls.
-- **Hype não é argumento.** Toda escolha técnica tem custo; quero saber qual antes de pagar.
+- **Hype não é argumento.** Toda escolha técnica tem custo.
 - **O terminal é a IDE.** Linux, shell, git e um editor que não precisa de mouse.
 
 ---
