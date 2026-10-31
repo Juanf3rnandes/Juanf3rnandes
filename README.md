@@ -8,7 +8,7 @@ Sou **Juan Fernandes**, Software Engineer e AI enthusiast.
 
 Gosto de problemas difíceis. Não necessariamente porque precisam de soluções sofisticadas, mas porque quase sempre existe mais de uma maneira de resolvê-los — e encontrar a melhor delas é parte da diversão.
 
-Gosto de pensar matematicamente, questionar o óbvio, explorar caminhos diferentes e construir coisas do zero. Linguagem, framework ou tecnologia são detalhes. O que realmente me interessa é entender o problema, descobrir sua estrutura e encontrar uma solução elegante.
+Gosto de pensar matematicamente, explorar caminhos diferentes e construir coisas do zero. Linguagem, framework ou tecnologia são atalho. não fundacão.
 
 > "What I cannot create, I do not understand."
 >
