@@ -94,7 +94,7 @@ $ cat /proc/github/stats
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanf3rnandes&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juanf3rnandes&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9](https://github-stats-extended.vercel.app/api?username=Juanf3rnandes&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=dark_github)" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanf3rnandes&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" height="170"/>
 </div>
 
