@@ -94,7 +94,7 @@ $ cat /proc/github/stats
 ```
 
 <div align="center">
-  <img src="./assets/Juanf3rnandes_card.png"/>
+  <img src="./assets/Juanf3rnandes_card.png" height = "300px" width = "200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanf3rnandes&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" height="170"/>
 </div>
 
